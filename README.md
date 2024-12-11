@@ -1,2 +1,2 @@
 # JAVA
-This repo contains all my JAVA projects from 
+This repo contains all my JAVA projects
